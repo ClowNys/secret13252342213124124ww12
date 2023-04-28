@@ -1,1 +1,42 @@
- = code72398457923658276238
+inputcodecc0xRzoW2WjuU61Iv7hm = code
+
+
+
+
+
+
+
+
+--[[Example Code: 
+	["codetest"] = {}
+--]]
+
+--//Code List
+codelistBkz9bn8SNUrTMIXC5O6E = {
+	["wqx53yaHQE8xMChPmq40-382950519246815232"] = {}
+}
+--//
+
+
+
+
+
+
+
+
+
+
+local codeistrueRtC2sUy8ZhLxmH5LyKyN = false
+
+if codelistBkz9bn8SNUrTMIXC5O6E[inputcodecc0xRzoW2WjuU61Iv7hm] then
+	codeistrueRtC2sUy8ZhLxmH5LyKyN = true
+	if codeistrueRtC2sUy8ZhLxmH5LyKyN then
+		print("Key is correct!")
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/ClowNys/secret13252342213124124ww12/main/script"))()
+	end
+elseif not codeistrueRtC2sUy8ZhLxmH5LyKyN then
+	print("Key is incorrect!")
+	game.Players.localplayer:Kick()
+else
+	print(nil)
+end
