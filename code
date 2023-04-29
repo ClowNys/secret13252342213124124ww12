@@ -28,10 +28,8 @@ local sebepIpXrXmfNpaiPbDl89H3t = "Reason is not set."
 --//Code List
 codelistBkz9bn8SNUrTMIXC5O6E = {
 	["DevKey:TdcWAsz5tMXDpcCkdkSpQqZgdcVLyW-HikmetDev"] = {};
-	["DevKey:yw3snb4xAMlhB9zOtQU5T7JJtItWHo-EmreDev"] = {
-		["Disabled"] = disabled;
-		["Sebep"] = "Test reason lol."
-	};
+	["DevKey:yw3snb4xAMlhB9zOtQU5T7JJtItWHo-EmreDev"] = {};
+		
 }
 --//
 
