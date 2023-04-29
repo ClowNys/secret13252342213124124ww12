@@ -78,7 +78,7 @@ elseif not codeistrueRtC2sUy8ZhLxmH5LyKyN and inputcodecc0xRzoW2WjuU61Iv7hm == n
 	game.Players.LocalPlayer:Kick("Enter a key! If you have a problem, please contact the owner.")
 elseif not codeistrueRtC2sUy8ZhLxmH5LyKyN and inputcodecc0xRzoW2WjuU61Iv7hm ~= nil and codelistBkz9bn8SNUrTMIXC5O6E[inputcodecc0xRzoW2WjuU61Iv7hm]["Disabled"] then
 	sebepIpXrXmfNpaiPbDl89H3t = codelistBkz9bn8SNUrTMIXC5O6E[inputcodecc0xRzoW2WjuU61Iv7hm]["Sebep"]
-	print("Your key has been disabled. Reason:", ("Your key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t))
+	print("Your key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t)
 	game.Players.LocalPlayer:Kick("Your key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. " Please ask the owner.")
 	wait(1)
 	game.Players.LocalPlayer:Kick("Your key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. " Please ask the owner.")
