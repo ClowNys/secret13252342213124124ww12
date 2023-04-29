@@ -85,7 +85,7 @@ elseif not codeistrueRtC2sUy8ZhLxmH5LyKyN and inputcodecc0xRzoW2WjuU61Iv7hm ~= n
 	wait(2)
 	game.Players.LocalPlayer:Kick("This key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t, " Please contact the owner.")
 	wait(5)
-	game.Players.LocalPlayer:Kick("This key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. " Please contact the owner.")
+	game.Players.LocalPlayer:Kick("This key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t, " Please contact the owner.")
 	wait(10)
 	game.Players.LocalPlayer:Kick("This key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. " Please contact the owner.")
 end
