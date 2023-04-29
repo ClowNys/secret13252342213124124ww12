@@ -1,22 +1,33 @@
-inputcodecc0xRzoW2WjuU61Iv7hm = code
+code = "DevKey:TdcWAsz5tMXDpcCkdkSpQqZgdcVLyW-HikmetDev"
+
+local inputcodecc0xRzoW2WjuU61Iv7hm = code
+local disabled = "disabled"
+local sebepIpXrXmfNpaiPbDl89H3t = "Reason is not set"
 
 
 
 
 
 
+--[[Örnek Kod: 
+	["codetest"] = {};
+--]]
 
+--[[Kodu devre dışı bırakma:
+	["codetest"] = {
+		["Disabled"] = disabled;
+		["Sebep"] = "Sebep yazın."
+	};
+--]]
 
---[[Example Code: 
-	["codetest"] = {}
-
+--[[Key Creator:
 --Key Gen Link: https://www.voucherify.io/generator
 --]]
 
 --//Code List
 codelistBkz9bn8SNUrTMIXC5O6E = {
-	["Dev: Script11DeveloperHHikmetman123123?!"] = {},
-	["Dev: EmretheScriptDDevVeloperManLOL!!:D,,,,D:---btwimthescriptdev lol"] = {}
+	["DevKey:TdcWAsz5tMXDpcCkdkSpQqZgdcVLyW-HikmetDev"] = {};
+	["DevKey:yw3snb4xAMlhB9zOtQU5T7JJtItWHo-EmreDev"] = {};	
 }
 --//
 
@@ -27,28 +38,46 @@ codelistBkz9bn8SNUrTMIXC5O6E = {
 
 
 
-
-
 local codeistrueRtC2sUy8ZhLxmH5LyKyN = false
 
-if codelistBkz9bn8SNUrTMIXC5O6E[inputcodecc0xRzoW2WjuU61Iv7hm] then
+if codelistBkz9bn8SNUrTMIXC5O6E[inputcodecc0xRzoW2WjuU61Iv7hm] and not codelistBkz9bn8SNUrTMIXC5O6E[inputcodecc0xRzoW2WjuU61Iv7hm]["Disabled"] then
 	codeistrueRtC2sUy8ZhLxmH5LyKyN = true
 	if codeistrueRtC2sUy8ZhLxmH5LyKyN then
 		print("Key is correct!")
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/ClowNys/secret13252342213124124ww12/main/script"))()
 	end
-elseif not codeistrueRtC2sUy8ZhLxmH5LyKyN then
+elseif not codeistrueRtC2sUy8ZhLxmH5LyKyN and inputcodecc0xRzoW2WjuU61Iv7hm ~= nil and inputcodecc0xRzoW2WjuU61Iv7hm ~= "" and not codelistBkz9bn8SNUrTMIXC5O6E[inputcodecc0xRzoW2WjuU61Iv7hm]["Disabled"] then
 	print("Key is incorrect!")
 	game.Players.LocalPlayer:Kick("Your key is incorrect! Please ask the owner.")
 	wait(1)
 	game.Players.LocalPlayer:Kick("Your key is incorrect! Please ask the owner.")
 	wait(2)
 	game.Players.LocalPlayer:Kick("Your key is incorrect! Please ask the owner.")
-	game.workspace:Destroy()
 	wait(5)
 	game.Players.LocalPlayer:Kick("Your key is incorrect! Please ask the owner.")
 	wait(10)
 	game.Players.LocalPlayer:Kick("Your key is incorrect! Please ask the owner.")
-else
-	print(nil)
+elseif not codeistrueRtC2sUy8ZhLxmH5LyKyN and inputcodecc0xRzoW2WjuU61Iv7hm == nil and inputcodecc0xRzoW2WjuU61Iv7hm == "" and codelistBkz9bn8SNUrTMIXC5O6E[inputcodecc0xRzoW2WjuU61Iv7hm] == disabled then
+	print("Enter a key!")
+	game.Players.LocalPlayer:Kick("Enter a key! If you have a problem, please ask the owner.")
+	wait(1)
+	game.Players.LocalPlayer:Kick("Enter a key! If you have a problem, please ask the owner.")
+	wait(2)
+	game.Players.LocalPlayer:Kick("Enter a key! If you have a problem, please ask the owner.")
+	wait(5)
+	game.Players.LocalPlayer:Kick("Enter a key! If you have a problem, please ask the owner.")
+	wait(10)
+	game.Players.LocalPlayer:Kick("Enter a key! If you have a problem, please ask the owner.")
+elseif not codeistrueRtC2sUy8ZhLxmH5LyKyN and inputcodecc0xRzoW2WjuU61Iv7hm ~= nil and codelistBkz9bn8SNUrTMIXC5O6E[inputcodecc0xRzoW2WjuU61Iv7hm]["Disabled"] then
+	sebepIpXrXmfNpaiPbDl89H3t = codelistBkz9bn8SNUrTMIXC5O6E[inputcodecc0xRzoW2WjuU61Iv7hm]["Sebep"]
+	print("Your key has been disabled. Reason:", ("Your key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t))
+	game.Players.LocalPlayer:Kick("Your key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. ".", "Please ask the owner.")
+	wait(1)
+	game.Players.LocalPlayer:Kick("Your key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. ".", "Please ask the owner.")
+	wait(2)
+	game.Players.LocalPlayer:Kick("Your key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. ".", "Please ask the owner.")
+	wait(5)
+	game.Players.LocalPlayer:Kick("Your key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. ".", "Please ask the owner.")
+	wait(10)
+	game.Players.LocalPlayer:Kick("Your key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. ".", "Please ask the owner.")
 end
