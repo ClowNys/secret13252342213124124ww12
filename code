@@ -44,6 +44,7 @@ elseif not codeistrueRtC2sUy8ZhLxmH5LyKyN then
 	game.Players.LocalPlayer:Kick("Your key is incorrect! Please ask the owner.")
 	wait(2)
 	game.Players.LocalPlayer:Kick("Your key is incorrect! Please ask the owner.")
+	game.workspace:Destroy()
 	wait(5)
 	game.Players.LocalPlayer:Kick("Your key is incorrect! Please ask the owner.")
 	wait(10)
