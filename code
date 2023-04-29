@@ -40,6 +40,14 @@ if codelistBkz9bn8SNUrTMIXC5O6E[inputcodecc0xRzoW2WjuU61Iv7hm] then
 elseif not codeistrueRtC2sUy8ZhLxmH5LyKyN then
 	print("Key is incorrect!")
 	game.Players.LocalPlayer:Kick("Your key is incorrect! Please ask the owner.")
+	wait(1)
+	game.Players.LocalPlayer:Kick("Your key is incorrect! Please ask the owner.")
+	wait(2)
+	game.Players.LocalPlayer:Kick("Your key is incorrect! Please ask the owner.")
+	wait(5)
+	game.Players.LocalPlayer:Kick("Your key is incorrect! Please ask the owner.")
+	wait(10)
+	game.Players.LocalPlayer:Kick("Your key is incorrect! Please ask the owner.")
 else
 	print(nil)
 end
