@@ -17,7 +17,7 @@ local sebepIpXrXmfNpaiPbDl89H3t = "Reason is not set."
 --[[Kodu devre dışı bırakma:
 	["codetest"] = {
 		["Disabled"] = disabled;
-		["Sebep"] = "Sebep yazın.";
+		["Sebep"] = "Sebep yazın."
 	};
 --]]
 
