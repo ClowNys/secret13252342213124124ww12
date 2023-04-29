@@ -79,13 +79,13 @@ elseif not codeistrueRtC2sUy8ZhLxmH5LyKyN and inputcodecc0xRzoW2WjuU61Iv7hm == n
 elseif not codeistrueRtC2sUy8ZhLxmH5LyKyN and inputcodecc0xRzoW2WjuU61Iv7hm ~= nil and codelistBkz9bn8SNUrTMIXC5O6E[inputcodecc0xRzoW2WjuU61Iv7hm]["Disabled"] then
 	sebepIpXrXmfNpaiPbDl89H3t = codelistBkz9bn8SNUrTMIXC5O6E[inputcodecc0xRzoW2WjuU61Iv7hm]["Sebep"]
 	print("Your key has been disabled. Reason:", ("Your key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t))
-	game.Players.LocalPlayer:Kick("This key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. ".", "Please contact the owner.")
+	game.Players.LocalPlayer:Kick("This key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. "Please contact the owner.")
 	wait(1)
-	game.Players.LocalPlayer:Kick("This key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. ".", "Please contact the owner.")
+	game.Players.LocalPlayer:Kick("This key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. " Please contact the owner.")
 	wait(2)
-	game.Players.LocalPlayer:Kick("This key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. ".", "Please contact the owner.")
+	game.Players.LocalPlayer:Kick("This key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. " Please contact the owner.")
 	wait(5)
-	game.Players.LocalPlayer:Kick("This key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. ".", "Please contact the owner.")
+	game.Players.LocalPlayer:Kick("This key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. " Please contact the owner.")
 	wait(10)
-	game.Players.LocalPlayer:Kick("This key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. ".", "Please contact the owner.")
+	game.Players.LocalPlayer:Kick("This key has been disabled. Reason: ".. sebepIpXrXmfNpaiPbDl89H3t.. " Please contact the owner.")
 end
