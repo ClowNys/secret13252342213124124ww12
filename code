@@ -28,16 +28,21 @@ local sebepIpXrXmfNpaiPbDl89H3t = "Reason is not set."
 --//Code List
 codelistBkz9bn8SNUrTMIXC5O6E = {
 	["DevKey:TdcWAsz5tMXDpcCkdkSpQqZgdcVLyW-HikmetDev"] = {};
+	
 	["DevKey:yw3snb4xAMlhB9zOtQU5T7JJtItWHo-EmreDev"] = {};
+	
 	["g0OiHRNdmo6jiCRHX2Hp-508929539510894592-Video"] = {
 		["Disabled"] = disabled;
 		["Sebep"] = "You can't use this key. Please buy a key."
 	};
+	
 	["wwY7Dcl3Xh5ZNPXCRvDN-1075734554746294302-1Month"] = {
 		["Disabled"] = disabled;
 		["Sebep"] = "This key payment returned."
 	};
+	
 	["IurcSFwoLQGL2yDY8KJ1-942312945134755890-1Month"] = {}; --30.04.2023
+	
 	["oXN8gnKIffvT3YLYRDWn-402937020197896192-Trial"] = {};
 		
 }
