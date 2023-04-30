@@ -43,7 +43,10 @@ codelistBkz9bn8SNUrTMIXC5O6E = {
 	
 	["IurcSFwoLQGL2yDY8KJ1-942312945134755890-1Month"] = {}; --30.04.2023
 	
-	["oXN8gnKIffvT3YLYRDWn-402937020197896192-Trial"] = {};
+	["oXN8gnKIffvT3YLYRDWn-402937020197896192-Trial"] = {
+		["Disabled"] = disabled;
+		["Sebep"] = "Trial key expried."
+	};
 		
 }
 --//
