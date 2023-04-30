@@ -29,11 +29,10 @@ local sebepIpXrXmfNpaiPbDl89H3t = "Reason is not set."
 codelistBkz9bn8SNUrTMIXC5O6E = {
 	["DevKey:TdcWAsz5tMXDpcCkdkSpQqZgdcVLyW-HikmetDev"] = {};
 	["DevKey:yw3snb4xAMlhB9zOtQU5T7JJtItWHo-EmreDev"] = {};
-	["yIyM1ewNwKwZKbnVzUzP-835231953514004481-Trial"] = {
+	["g0OiHRNdmo6jiCRHX2Hp-508929539510894592-Video"] = {
 		["Disabled"] = disabled;
-		["Sebep"] = "Your trial key expried."
+		["Sebep"] = "You can't use this key. Please buy a key."
 	};
-	["g0OiHRNdmo6jiCRHX2Hp-508929539510894592-Video"] = {}
 		
 }
 --//
