@@ -33,7 +33,10 @@ codelistBkz9bn8SNUrTMIXC5O6E = {
 		["Disabled"] = disabled;
 		["Sebep"] = "You can't use this key. Please buy a key."
 	};
-	["wwY7Dcl3Xh5ZNPXCRvDN-1075734554746294302-1Month"] = {}; --30.04.2023
+	["wwY7Dcl3Xh5ZNPXCRvDN-1075734554746294302-1Month"] = {
+		["Disabled"] = disabled;
+		["Sebep"] = "This key payment returned."
+	};
 	["IurcSFwoLQGL2yDY8KJ1-942312945134755890-1Month"] = {}; --30.04.2023
 		
 }
