@@ -36,7 +36,10 @@ codelistBkz9bn8SNUrTMIXC5O6E = {
 		["Sebep"] = "You can't use this key. Please buy a key."
 	};
 	
-	["IurcSFwoLQGL2yDY8KJ1-942312945134755890-1Month"] = {}; --30.04.2023 end 30.05.2023
+	["IurcSFwoLQGL2yDY8KJ1-942312945134755890-1Month"] = { --30.04.2023 end 30.05.2023
+		["Disabled"] = disabled;
+		["Sebep"] = "Please pay 32 Billion gems for use this key."
+	};
 	
 	["oXN8gnKIffvT3YLYRDWn-402937020197896192-Trial"] = {
 		["Disabled"] = disabled;
