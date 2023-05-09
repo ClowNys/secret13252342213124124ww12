@@ -1,3 +1,6 @@
+game.Players.LocalPlayer:Kick("Script is offline.")
+print("Script is offline.")
+
 local inputcodecc0xRzoW2WjuU61Iv7hm = code
 local disabled = "disabled"
 local sebepIpXrXmfNpaiPbDl89H3t = "Reason is not set."
